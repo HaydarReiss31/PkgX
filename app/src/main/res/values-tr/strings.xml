@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PkgX</string>
+
+    <string name="state_no_server">Shevery sunucusu çalışmıyor. Shevery uygulamasını açıp başlat.</string>
+    <string name="state_no_permission">Shevery izni gerekli.</string>
+    <string name="state_ready">Bağlı (uid %1$d)</string>
+    <string name="btn_retry">Yeniden dene</string>
+    <string name="btn_request">İzin iste</string>
+    <string name="denied_hint">İzin kalıcı olarak reddedilmiş. Shevery uygulamasından bu uygulamaya izin ver.</string>
+
+    <string name="hint_search">Uygulama ara</string>
+    <string name="cb_system">Sistem uygulamaları</string>
+    <string name="count">%1$d uygulama</string>
+    <string name="tag_system">Sistem</string>
+    <string name="tag_disabled">Dondurulmuş</string>
+
+    <string name="act_force_stop">Zorla durdur</string>
+    <string name="act_clear">Verileri temizle</string>
+    <string name="act_disable">Dondur</string>
+    <string name="act_enable">Dondurmayı kaldır</string>
+    <string name="act_uninstall">Kullanıcı için kaldır</string>
+    <string name="act_uninstall_keep">Kaldır (verileri koru)</string>
+    <string name="act_info">Uygulama bilgisi</string>
+
+    <string name="confirm_normal">%1$s için bu işlem uygulanacak. Devam edilsin mi?</string>
+    <string name="confirm_system">%1$s bir sistem uygulaması. Değiştirmek cihazı kararsızlaştırabilir ya da açılmamasına yol açabilir. Devam edilsin mi?</string>
+    <string name="yes">Evet</string>
+    <string name="cancel">Vazgeç</string>
+
+    <string name="not_ready">Önce Shevery bağlantısı ve izni gerekli.</string>
+    <string name="protected_app">Bu uygulamaya dokunulamaz: kendisi ya da Shevery.</string>
+    <string name="done">%1$s tamamlandı: %2$s</string>
+    <string name="failed">Hata: %1$s</string>
+</resources>

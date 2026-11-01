@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PkgX</string>
+
+    <string name="state_no_server">The Shevery server is not running. Open Shevery and start it.</string>
+    <string name="state_no_permission">Shevery permission required.</string>
+    <string name="state_ready">Connected (uid %1$d)</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_request">Request permission</string>
+    <string name="denied_hint">Permission was permanently denied. Grant it to this app from within Shevery.</string>
+
+    <string name="hint_search">Search apps</string>
+    <string name="cb_system">System apps</string>
+    <string name="count">%1$d apps</string>
+    <string name="tag_system">System</string>
+    <string name="tag_disabled">Frozen</string>
+
+    <string name="act_force_stop">Force stop</string>
+    <string name="act_clear">Clear data</string>
+    <string name="act_disable">Freeze</string>
+    <string name="act_enable">Unfreeze</string>
+    <string name="act_uninstall">Uninstall for user</string>
+    <string name="act_uninstall_keep">Uninstall (keep data)</string>
+    <string name="act_info">App info</string>
+
+    <string name="confirm_normal">This action will be applied to %1$s. Continue?</string>
+    <string name="confirm_system">%1$s is a system app. Changing it may make the device unstable or prevent it from booting. Continue?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="not_ready">The Shevery connection and permission are required first.</string>
+    <string name="protected_app">This app cannot be modified: it is PkgX itself or Shevery.</string>
+    <string name="done">%1$s completed: %2$s</string>
+    <string name="failed">Error: %1$s</string>
+</resources>
